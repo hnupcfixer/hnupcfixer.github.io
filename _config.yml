@@ -6,8 +6,8 @@ highlighter: 'rouge'
 #paginate: 8
 permalink: /:title
 
-name: “Hnupcfixer's Blog”
-title: Hnupcfixer's storys
+name: “HNUpcfixer's Blog”
+title: HNUpcfixer's storys
 description: story about hnupcfixer.
 url: http://hnupcfixer.github.io
 feed: /atom.xml
