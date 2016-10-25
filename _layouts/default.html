@@ -23,27 +23,10 @@
     <div class="home-menu">
         <div class="home-icon-con">
             <a class="home-menu-icon" href="/">HNUpcfixer</a>
-            <a class="home-follow" href="#" title="Contact Me">+</a>
-        </div>
-        <div class="home-contact">
-            <a href="https://github.com/hnupcfixer/" target="_blank" style="text-align:centre;"><img src="https://github.com/favicon.ico" alt="" width="22"/></a>
         </div>
     </div>
 
     {{ content }}
 
-    <script type="text/javascript">
-        $(function(){
-            $('.home-follow').click(function(e){
-                e.preventDefault();
-
-                if($('.home-contact').is(':visible')){
-                    $('.home-contact').slideUp(100);
-                }else{
-                    $('.home-contact').slideDown(100);
-                }
-            });
-        })
-    </script>
 </body>
 </html>
