@@ -1,8 +1,8 @@
 auto: true
 
-markdown: rdiscount
+markdown: kramdown
 
-highlighter: 'pygments'
+highlighter: 'rouge'
 #paginate: 8
 permalink: /:title
 
