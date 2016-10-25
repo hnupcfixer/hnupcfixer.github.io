@@ -7,7 +7,7 @@ highlighter: 'pygments'
 permalink: /:title
 
 name: “Hnupcfixer's Blog”
-title: Mukosame's storys
+title: Hnupcfixer's storys
 description: story about hnupcfixer.
 url: http://hnupcfixer.github.io
 feed: /atom.xml
