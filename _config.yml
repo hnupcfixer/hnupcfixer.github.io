@@ -10,5 +10,5 @@ name: “HNUpcfixer's Blog”
 title: HNUpcfixer's storys
 description: story about hnupcfixer.
 url: http://hnupcfixer.github.io
-feed: /atom.xml
+feed: /feed.xml
 author_info: <a href="http://hnupcfixer.github.io/">Hnupcfixer</a>
